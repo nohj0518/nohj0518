@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohj0518)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=nohj0518)](https://solved.ac/nohj0518)
+[![solved.ac tier](http://mazassumnida.wtf/v2/generate_badge?boj=nohj0518)](https://solved.ac/nohj0518)
 
