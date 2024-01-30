@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-
 <h3 align="center"> 👋 A passionate frontend developer from South-Korea</h3>
 
 
@@ -44,6 +43,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nohj0518)](https://github.com/anuraghazra/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=nohj0518)](https://solved.ac/nohj0518)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnohj0518%2Fhit-counter&count_bg=%23434040&title_bg=%23E9E9E9&icon=github.svg&icon_color=%23232020&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
