@@ -4,8 +4,9 @@
 
 
 <p align="center">
-    <a href="https://dlog0518.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
+    <a href="https://dlog0518.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/velog-0000?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
     <a href="mailto:nohj0518@daum.net" target="_blank"><img src="https://img.shields.io/badge/nohj0518@daum.net-246FDB?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
+    <a href="https://velog.io/@nohj0518/posts" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 </p>
 
 <h3 align="center">🛠Languages and Tools🛠</h3>
